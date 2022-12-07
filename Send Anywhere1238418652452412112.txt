@@ -1,0 +1,9 @@
+d = 56
+print(f"this is the number{d}")
+g = "Jesus,my Hope"
+print("%s!"% g)
+class Europe:
+	def visit(self):
+		print("Europe has many country")
+Italy = Europe()
+Italy.visit()
